@@ -1,7 +1,17 @@
 #
-# Copy this file to ~/.config/fish/conf.d/drupal.fish
+# Helpful Fish config.
 #
-
+# The fish shell is powerful and fast. It is especially nice with a few extras.a
+# See https://gist.github.com/jmolivas/df86020c41efb986b29b for a nice fish/oh my fish/setup.
+#
+# Copy this file to ~/.config/fish/conf.d/drupal.fish
+# cp drupal.fish ~/.config/fish/conf.d/drupal.fish
+#
+#   - or -
+#
+# Use "source" command to load abbreviations for current shell session.
+# source drupal.fish
+#
 # Fish abbreviations.
 abbr --add c composer
 abbr --add dd ddev
